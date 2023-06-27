@@ -1,5 +1,5 @@
 # CRED-T10
-Team ID: CRED-T10 | Team Members: Prateek Divyanshu &amp; Prabhu Sharan Singh
+Team ID: CRED-T10 | Team Members: Prateek Divyanshu &amp; Prabhu Singh
 
 ## Tech Stack
 ![alt text](https://miro.medium.com/max/900/0*UqGyYmWCRQnjLzSk.jpg "MERN Tech Stack")
@@ -49,3 +49,6 @@ cd frontend
 yarn
 yarn start
 ```
+
+### Demo Link
+https://drive.google.com/file/d/1h4hfLarG-QGEL09A0-BPswwnV7QSK3g-/view?usp=sharing
